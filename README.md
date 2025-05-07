@@ -1,4 +1,6 @@
-                                     ## Hi ! I am Prerana 👋
+
+
+## Hi ! I am Prerana 👋
 
 
 **Welcome to my GitHub! I'm Prerana, a Data Scientist with a deep passion for data science, machine learning and AI. I'm currently a Research Assistant at Georgetown University where I focus on innovative AI solutions.
@@ -10,10 +12,10 @@
 - 📫 How to reach me: saiprerana519@gmail.com
 - ⚡ Fun fact: I love music! I compose music in my free time.
 
-##Experience
+## Experience
 
 
-##Education
+## Education
 
 
 
