@@ -15,10 +15,10 @@ Welcome to my GitHub! I'm Prerana, a Data Scientist with a deep passion for data
 ## Experience
 - Chan Zuckerberg Biohub: Medequip Intern
 - Deloitte USI, Hyderabad: Software Developer
-- 
+  
 ## Education
-MS in Data Science and Analytics - Georgetown University
-BE in Computer Science - CBIT, Hyderabad
+- MS in Data Science and Analytics - Georgetown University
+- BE in Computer Science - CBIT, Hyderabad
 
 
 
