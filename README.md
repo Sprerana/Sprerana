@@ -1,9 +1,7 @@
                                      ## Hi ! I am Prerana 👋
 
 
-**Sprerana/Sprerana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Welcome to my GitHub! I'm Prerana, a Data Scientist with a deep passion for data science, machine learning and AI. I'm currently a Research Assistant at Georgetown University where I focus on innovative AI solutions.
 
 - 🔭 View my protfolio website here ! 
 - 🌱 I’m currently diving into the world of Agentic AI, deep learning, and cloud tech to see how they’re teaming up to help businesses crush their goals across all kinds of industries!
