@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Prerana, a Data Scientist with a deep passion for data
 
 ## Experience
 - Data Science Intern: Medequip, Inc
-- Deloitte USI, Hyderabad: Software Developer
+- Micron Technologies: Software Developer
   
 ## Education
 - MS in Data Science and Analytics - Georgetown University
